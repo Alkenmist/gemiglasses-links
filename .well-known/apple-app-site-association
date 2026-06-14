@@ -1,1 +1,11 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "25WX5YM2F9.com.ken.GemiGlasses",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
